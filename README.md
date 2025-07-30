@@ -8,3 +8,4 @@ Takes user input and verifies valid numbers
 Informs the user if their guess is too high, too low, or correct
 
 Loops until the correct guess is made.
+
